@@ -82,6 +82,8 @@ thead td {
   margin-top: 10px; }
 
 table.recipes {
+  float: none;
+  margin: 0 auto;
   margin-top: 10px; }
 
 .center-table {
@@ -112,6 +114,14 @@ table.center-table {
 #header {
   position: relative; }
 
+#mainFrame {
+  float: none;
+  margin: 0 auto;
+  padding: 10px 0px 10px;
+  background-color: rgba(222, 222, 222, 0.8);
+  border: 2px solid black;
+  border-radius: 8px; }
+
 #logo {
   position: absolute;
   width: 225px;
@@ -124,4 +134,4 @@ table.center-table {
 
 #backToList {
   position: absolute;
-  right: 1%; }
+  right: -32%; }
