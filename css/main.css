@@ -134,3 +134,6 @@ table.center-table {
 #backToList {
   position: absolute;
   right: -32%; }
+
+.ingredients {
+  width: 100%; }
